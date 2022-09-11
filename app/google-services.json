@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "240746252056",
+    "project_id": "trenz-dc5d6",
+    "storage_bucket": "trenz-dc5d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240746252056:android:6cec5a51b5f640db33806d",
+        "android_client_info": {
+          "package_name": "com.example.trenz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240746252056-f1ng0k6gnlag5k2tjtbd8qukt14thjnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqr0eQf0E0G8WyndvmZ9UewGSpMotpHpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240746252056-f1ng0k6gnlag5k2tjtbd8qukt14thjnn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
